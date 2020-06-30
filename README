@@ -1,8 +1,10 @@
-flatris-zh是项目flatris项目的汉化语言包
-flatris是一个俄罗斯方块在线对战平台
-官方原版地址
-https://flatris.space/
-汉化版预览地址
-https://game.v2ex.ltd/
-食用方法，替换原项目中的/flatris/web/components这整个文件夹
-还有一些小瑕疵没有注意到的，后续会继续完善
+# flatris-zh是项目flatris项目的汉化语言包
+## flatris是一个俄罗斯方块在线对战平台
+### 官方项目地址
+#### https://github.com/skidding/flatris
+### 官方原版预览地址
+#### https://flatris.space/
+### 汉化版预览地址
+#### https://game.v2ex.ltd/
+### 食用方法，替换原项目中的/flatris/web/components这整个文件夹
+### 还有一些小瑕疵没有注意到的，后续会继续完善
